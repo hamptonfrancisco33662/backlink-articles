@@ -9,4 +9,7 @@
 ### meichenwindows.com.au
 - [Aluminium Windows Melbourne: Why Exposure Should Drive Every Specification](meichenwindows.com.au/aluminium-windows-melbourne-why-exposure-should-drive-every-specification.md)
 - [Thermally Broken Aluminum Windows in Victoria: Why the Frame Upgrade Matters](meichenwindows.com.au/thermally-broken-aluminum-windows-in-victoria-why-the-frame-upgrade-matters.md)
+
+### shengxinaluminium.com
+- [T-Slot Frame Stiffness: Why Joint Design Matters More Than Profile Size](shengxinaluminium.com/t-slot-frame-stiffness-why-joint-design-matters-more-than-profile-size.md)
 <!-- backlink-building:github-repository:end -->
